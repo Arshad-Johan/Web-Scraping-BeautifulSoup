@@ -1,0 +1,2 @@
+WEB SCRAPING BEAUTIFULSOUP: 
+This project scrapes book details from the "Books to Scrape" website using BeautifulSoup. It extracts key information such as book titles, prices, availability, and ratings from the website's catalog page. The data is stored in a pandas DataFrame, with the genre also included, and is saved to a CSV file. The project helps automate the process of gathering book data for analysis or inventory purposes.
